@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Env / secrets
+.env
+.env.local
+appsettings.Development.json
+appsettings.*.local.json
+**/appsettings.Development.json
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+Thumbs.db
+.DS_Store

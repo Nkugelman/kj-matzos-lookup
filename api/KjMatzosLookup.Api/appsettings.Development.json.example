@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "TenantConnection": "Server=YOUR_TENANT_SERVER;Database=KJ_MATZOS_TENANT_DB;User Id=YOUR_USER;Password=YOUR_PASSWORD;TrustServerCertificate=True"
+  },
+  "CustomerOrderKiosk": {
+    "TenantCustomerId": 152,
+    "TenantDisplayName": "KJ Matzos"
+  }
+}
